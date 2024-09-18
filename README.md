@@ -5,7 +5,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{ikniazhev}/count.svg" alt="Dream528 :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src="https://nextjs-kirk-profile.vercel.app/_next/image?url=%2Fimages%2Fprofile-1.png&w=256&q=75" alt="Dream528 :: Visitor's Count" />
+<img src="https://jack-profile.vercel.app/_next/image?url=%2Fimages%2Fprofile-1.png&w=256&q=75" alt="Dream528 :: Visitor's Count" />
 </p>
 
  # Frontend skills
