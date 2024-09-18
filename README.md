@@ -9,7 +9,7 @@
 </p>
 
  # Frontend skills
-	- React.js, React Native, Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk
+	- React.js,  Next.js, Vue.js, WordPress, Redux-Saga/Redux-Thunk, React Native, Three js,  Nuxt js
 	- Svelte, Angular, Lit
   	- HTML5, CSS3, SASS / Bootstrap, Styled components
   	- JavaScript, jQuery, Ajax
@@ -18,7 +18,7 @@
   	- WebPack, NPM, Yarn
 
  # Backend skills
-	- Node.js / Express / Golang 
+	- Node.js / Express / Golang / Nuxt js
 	- Python / Django, Flask
 	- OpenAI / ChatGPT / Lang Chain / TTS / DALL-E / Whisper
 	- PHP/Laravel
