@@ -4,9 +4,6 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt="Dream528 :: Visitor's Count" /></p>
 
-<p align='center'>
-<img src="https://jack-profile.vercel.app/_next/image?url=%2Fimages%2Fprofile-1.png&w=256&q=75" alt="Dream528 :: Visitor's Count" />
-</p>
 
 I am a Software engineer with experience in building intelligent & scalable applications using Flutter, ReactJs, NextJs, ThreeJS and Node.
 I love mobile apps, distributed systems, open-source projects and the challenges associated with them.
